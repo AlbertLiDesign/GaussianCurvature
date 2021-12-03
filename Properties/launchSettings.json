@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GaussianCurvature": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Program Files\\Rhino WIP\\System\\Rhino.exe",
+      "nativeDebugging": true
+    }
+  }
+}
